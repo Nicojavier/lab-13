@@ -21,3 +21,8 @@ header, main, footer   {
 main    {
     display: flex;
 }
+
+.headerimg  {
+    max-width: 100%;
+    min-width: 200px;
+}
