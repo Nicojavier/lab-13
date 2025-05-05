@@ -1,0 +1,23 @@
+header, main, footer   {
+    background-color: blue;
+    min-height: 200px;
+}
+
+.menu   {
+    display: inline-block;
+    background-color: red;
+    min-height: 200px;
+    width: 30%;
+
+}
+
+.content    {
+    display: inline-block;
+    background-color: green;
+    min-height: 200px;
+    width: 70%;
+}
+
+main    {
+    display: flex;
+}
